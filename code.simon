@@ -1,0 +1,7 @@
+GENEREATE CLASS REPRORT
+simon says set srting class = "BSSE-SEC(B)-SEM(5)";
+simon says list student_data = [ "Muhammad Asad Khalid" , 21 , 3.1 ];
+simon says display(class);
+simon says disply(student_data);
+symbol table
+print grammar
